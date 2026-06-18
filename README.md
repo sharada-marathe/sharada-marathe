@@ -39,7 +39,6 @@ I currently run the entire marketing function for a small charity as one person,
 - LSE Career Accelerator in Digital Marketing — 2025
 - Gateway Level 2 Digital Marketing — Ofsted, 2024
 - ISB Digital Marketing & Analytics — 2023
-- *In progress (2026):* HubSpot Marketing Software (HubSpot Academy); Remotion (programmatic video)
  ## Selected work
 
   **Live blog, built with my AI content pipeline:** [Building Emotional Resilience in
