@@ -52,7 +52,13 @@ I currently run the entire marketing function for a small charity as one person,
    <img width="1818" height="576" alt="carousel-strip" src="https://github.com/user-attachments/assets/16f721aa-762f-4281-982f-359a67337e9f" />
 
   
-**A reel I built with Remotion (programmatic video):** 
+**A reel I built with Remotion (programmatic video):**
+
+
+https://github.com/user-attachments/assets/e7d1ed31-d38a-4254-9119-24befa88e117
+
+
+
     
 
 
