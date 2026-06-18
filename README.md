@@ -48,6 +48,18 @@ I currently run the entire marketing function for a small charity as one person,
  **How my quality gate works — real output:**
  <img width="1180" height="360" alt="rule-gate-output" src="https://github.com/user-attachments/assets/322618e1-e2b5-4ddc-93cb-3a8fb9a89be2" />
 
+   **A content carousel from the same pipeline — the highest-engagement LinkedIn format:**
+   <img width="1818" height="576" alt="carousel-strip" src="https://github.com/user-attachments/assets/16f721aa-762f-4281-982f-359a67337e9f" />
+
+  
+**A reel I built with Remotion (programmatic video):** 
+    
+
+
+   **A finished social graphic from the pipeline:**
+   <img width="1080" height="1080" alt="produced-asset" src="https://github.com/user-attachments/assets/7e27b6d7-82f9-40ad-bdfa-06b9ba617b20" />
+
+
   
 
 
