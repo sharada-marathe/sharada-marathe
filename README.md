@@ -31,7 +31,7 @@ I currently run the entire marketing function for a small charity as one person,
 
 ## Tools & certifications
 
-`Claude + MCP` · `GA4` · `Search Console` · `Google Ads` · `SEMrush` · `WordPress` · `Squarespace` · `Beacon CRM` · `Hootsuite` · `Canva` `Programmatic video creation and editing`
+`Claude (AI agents)` · `GA4` · `Search Console` · `Google Ads` · `SEMrush` · `WordPress` · `Squarespace` · `Beacon CRM` · `Hootsuite` · `Canva`· `Programmatic video creation and editing`
 
 - GA4 — Google, 2026
 - Google Ads Search — Google, 2026
