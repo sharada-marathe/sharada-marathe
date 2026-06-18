@@ -44,6 +44,11 @@ I currently run the entire marketing function for a small charity as one person,
   **Live blog, built with my AI content pipeline:** [Building Emotional Resilience in
   Children](https://www.bekindmovement.co.uk/blog/building-emotional-resilience-in-children) — researched and drafted with my SEO content agent, then human-edited and
   published. The charity's first SEO blog in nearly a year, built to answer live search demand.
+ 
+ **How my quality gate works — real output:**
+ <img width="1180" height="360" alt="rule-gate-output" src="https://github.com/user-attachments/assets/322618e1-e2b5-4ddc-93cb-3a8fb9a89be2" />
+
+  
 
 
 ## The code
