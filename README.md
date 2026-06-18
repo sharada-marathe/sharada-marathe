@@ -40,12 +40,18 @@ I currently run the entire marketing function for a small charity as one person,
 - Gateway Level 2 Digital Marketing — Ofsted, 2024
 - ISB Digital Marketing & Analytics — 2023
 - *In progress (2026):* HubSpot Marketing Software (HubSpot Academy); Remotion (programmatic video)
+ ## Selected work
+
+  **Live blog, built with my AI content pipeline:** [Building Emotional Resilience in
+  Children](https://www.bekindmovement.co.uk/blog/building-emotional-resilience-in-children) — researched and drafted with my SEO content agent, then human-edited and
+  published. The charity's first SEO blog in nearly a year, built to answer live search demand.
+
 
 ## The code
 
 My working repositories are **private** to protect client and brand data. The patterns behind the system — the rule-gate quality checks, the agent playbooks, the data-to-brief workflow — are real and demonstrable.
 
-**Message me on [LinkedIn] (https://www.linkedin.com/in/sharadamarathe/) for a walkthrough or access.**
+**Message me on [LinkedIn](https://www.linkedin.com/in/sharadamarathe/) for a walkthrough or access.**
 
 ---
 
