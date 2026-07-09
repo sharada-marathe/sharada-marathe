@@ -48,8 +48,8 @@ I currently run the entire marketing function for a small charity as one person,
  **How my quality gate works — real output:**
  <img width="1180" height="360" alt="rule-gate-output" src="https://github.com/user-attachments/assets/322618e1-e2b5-4ddc-93cb-3a8fb9a89be2" />
 
-   **A content carousel from the same pipeline — the highest-engagement LinkedIn format:**
-   <img width="1818" height="576" alt="carousel-strip" src="https://github.com/user-attachments/assets/16f721aa-762f-4281-982f-359a67337e9f" />
+  
+   
 
   
 **A reel I built end-to-end with Remotion (programmatic video):** an evidence-led piece for World Cup season — Japan's respect for the host as the hook into the charity's *Respect* value. Fact-checked script (CNN/FIFA; Japan's Ministry of Education), AI voiceover generated with ElevenLabs, and rendered in code to the brand system — Montserrat, brand palette, animated captions — in both 9:16 (Reels) and 4:5 (LinkedIn).
