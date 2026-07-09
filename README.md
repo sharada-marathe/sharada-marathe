@@ -52,18 +52,24 @@ I currently run the entire marketing function for a small charity as one person,
    <img width="1818" height="576" alt="carousel-strip" src="https://github.com/user-attachments/assets/16f721aa-762f-4281-982f-359a67337e9f" />
 
   
-**A reel I built with Remotion (programmatic video):**
+**A reel I built end-to-end with Remotion (programmatic video):** an evidence-led piece for World Cup season — Japan's respect for the host as the hook into the charity's *Respect* value. Fact-checked script (CNN/FIFA; Japan's Ministry of Education), AI voiceover generated with ElevenLabs, and rendered in code to the brand system — Montserrat, brand palette, animated captions — in both 9:16 (Reels) and 4:5 (LinkedIn).
 
 
-https://github.com/user-attachments/assets/e7d1ed31-d38a-4254-9119-24befa88e117
+https://github.com/user-attachments/assets/32cc248c-b762-4254-b983-f6240b508740
+
+
 
 
 
     
 
 
-   **A finished social graphic from the pipeline:**
-   <img width="1080" height="1080" alt="produced-asset" src="https://github.com/user-attachments/assets/7e27b6d7-82f9-40ad-bdfa-06b9ba617b20" />
+   **A finished carousel from the pipeline:**
+
+   <img width="1300" height="1066" alt="carousel-strip-12jun-compassion" src="https://github.com/user-attachments/assets/5245f25b-4409-4c1b-88a4-cde5cea666c3" />
+
+
+   
 
 
   
