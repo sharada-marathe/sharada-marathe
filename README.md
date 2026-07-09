@@ -1,6 +1,6 @@
 # Hi, I'm Sharada Marathe 👋
 
-**AI-native marketer.** I run a full marketing function with AI agents, not just AI tools. I design the system, direct the code with AI assistance, and stay the human in the loop on every output.
+**AI Marketing Specialist.** I run a full marketing function with AI agents, not just AI tools. I design the system, direct the code with AI assistance, and stay the human in the loop on every output.
 
 I currently run the entire marketing function for a small charity as one person, where a six-role team used to sit. Rather than cut output, I rebuilt the function as a set of AI agents with me as editor and publisher.
 
