@@ -18,20 +18,42 @@ I currently run the entire marketing function for a small charity as one person,
 
 **Content, social and email — all produced through AI, all shipped by a human.**
 
-- **Content:** an AI content agent researched and drafted the charity's first SEO blog in nearly a year, targeting 200+ live search terms that had no organic page, structured for AEO and GEO visibility with schema, real search-question FAQs and verified citations.
-- **Social:** AI-produced graphics, carousels and platform-specific captions, posted natively across LinkedIn, Instagram and Facebook. Sustained 37.84% post engagement against a 2.17% nonprofit benchmark on a small but highly engaged audience.
-- **Email:** AI-drafted newsletters paired to each blog, with audience segmentation in Squarespace (33% open, 4% click on a recent community-fund campaign).
+- **Content:** an AI content agent researches live search demand and drafts SEO blogs — structured for AEO and GEO visibility with schema, real search-question FAQs and verified citations. It produced the charity's first SEO blog in nearly a year.
+- **Social:** AI-produced graphics, carousels and platform-specific captions, posted natively across LinkedIn, Instagram and Facebook.
+- **Email:** AI-drafted newsletters paired to each blog, with audience segmentation in Squarespace.
+- **Video:** reels generated in code with Remotion — a fact-checked script, an AI voiceover (ElevenLabs) and a branded render in 9:16 and 4:5, produced rather than hand-edited.
 - **Analytics:** a UTM-tagged journey funnel in GA4, plus a cross-domain tracking-gap diagnosis using Search Console and email analytics to confirm the primary audience.
+
+  ## The six functions I run as one
+
+ Traditional role  Vs How I run it now 
+
+ **Content / SEO writer** | AI content agent researches live search demand and drafts; I edit and publish. 
+ **Social media manager** | AI-produced graphics, carousels and platform-native captions across LinkedIn, Instagram and Facebook. 
+ **Email marketer** | AI-drafted newsletters paired to each blog, segmented in Squarespace. 
+ **Graphic designer** | brand assets generated in code + Canva, gated against brand rules. 
+ **Video editor** | programmatic video in Remotion — script → AI voiceover → coded render. 
+ **Marketing analyst** | GA4 / Search Console / Ads data turned into briefs, plus tracking-gap diagnosis.
+
+ ## Results
+
+| Channel | Result | Context |
+
+ **Social** — post engagement | **37.84%** | vs **2.17%** nonprofit benchmark · small, highly engaged audience |
+ **Email** — community-fund campaign | **33%** open · **4%** click | segmented in Squarespace |
+ **SEO** — content | **200+** live search terms targeted with no existing page | the charity's first SEO blog in ~a year |
+ **Function** — headcount | a full marketing function run by **one person** | content, social, email, design, video and analytics |
+
 
 ## Three principles I build by
 
-1. **Rules live in code, not in memory.** Brand and accuracy rules that only exist in a document get forgotten. My build scripts refuse to produce an asset that breaks a rule. The checklist is enforced, not promised.
-2. **Verified data only.** Every statistic and quote must trace to a source. The content agents cannot invent numbers, and the gate checks for banned claim patterns.
-3. **A human ships everything.** The agents produce near-final work. Nothing publishes without editorial review.
+  1. **Rules live in code, not in memory.** Brand and accuracy rules that only exist in a document get forgotten. My build scripts refuse to produce an asset that breaks a rule. The checklist is enforced, not promised.
+  2. **Verified data only.** Every statistic and quote must trace to a source. The content agents cannot invent numbers, and the gate checks for banned claim patterns.
+  3. **A human ships everything.** The agents produce near-final work. Nothing publishes without editorial review.
 
 ## Tools & certifications
 
-`Claude (AI agents)` · `GA4` · `Search Console` · `Google Ads` · `SEMrush` · `WordPress` · `Squarespace` · `Beacon CRM` · `Hootsuite` · `Canva`· `Programmatic video creation and editing`
+`Claude (AI agents)` · `GA4` · `Search Console` · `Google Ads` · `SEMrush` · `WordPress` · `Squarespace` · `Beacon CRM` · `Hootsuite` · `Canva`· `Programmatic video creation and editing(Remotion)` · `ElevenLabs (AI voiceover)`
 
 - GA4 — Google, 2026
 - Google Ads Search — Google, 2026
@@ -39,6 +61,7 @@ I currently run the entire marketing function for a small charity as one person,
 - LSE Career Accelerator in Digital Marketing — 2025
 - Gateway Level 2 Digital Marketing — Ofsted, 2024
 - ISB Digital Marketing & Analytics — 2023
+ 
  ## Selected work
 
   **Live blog, built with my AI content pipeline:** [Building Emotional Resilience in
