@@ -65,8 +65,7 @@ I currently run the entire marketing function for a small charity as one person,
  ## Selected work
 
   **Live blog, built with my AI content pipeline:** [Building Emotional Resilience in
-  Children](https://www.bekindmovement.co.uk/blog/building-emotional-resilience-in-children) — researched and drafted with my SEO content agent, then human-edited and
-  published. The charity's first SEO blog in nearly a year, built to answer live search demand.
+  Children](https://www.bekindmovement.co.uk/blog/building-emotional-resilience-in-children) —My SEO skill is a coded, rule-enforced workflow, not a one-shot prompt. From a confirmed keyword it crawls the live top-10 across several search variants to find the content gap, checks the charity's own Google Ads search-term data first (so the angle rests on clicks we actually get, not just third-party tool volume), builds the FAQ only from real Google "People Also Ask" questions, and verifies every external citation against its source page before it is allowed in — no unverified stats. It structures the piece for AEO/GEO — 40–60-word direct answers, clean heading hierarchy, and FAQ + breadcrumb schema — then hands it to me to edit, fact-check and publish.
  
  **How my quality gate works — real output:**
  <img width="1180" height="360" alt="rule-gate-output" src="https://github.com/user-attachments/assets/322618e1-e2b5-4ddc-93cb-3a8fb9a89be2" />
